@@ -1,0 +1,21 @@
+Location         : D:\VS Code Project\FPGA_al_set\td_project\Verimake_camerasc2210_mipi_ddr_hdmi_Runs\phy_b4
+Running with     : Tang Dynasty v6.2.168116
+                   Copyright (c) 2012-2025 Anlogic Inc.
+Top Model        : design_top_wrapper
+Device           : PH1A90SBG484
+Speed            : 2
+
+Timing Mode      : manhattan
+Setup            : WNS   332ps  TNS        0ps  NUM_FEPS     0
+Hold             : WNS  -254ps  TNS   -24787ps  NUM_FEPS   333
+
+Flow Statistics  :
+---------------------------------------------------------------------------------------------------
+     command     |  #calls  |  wall time   |  cpu time(s)  |  used memory(mb)  |  peak memory(mb)  
+---------------------------------------------------------------------------------------------------
+      place      |    1     |  16m8s(99%)  |   1499(99%)   |       3801        |       4288        
+  import_device  |    1     |    4s(0%)    |     2(0%)     |       1114        |       1114        
+    import_db    |    1     |    3s(0%)    |     1(0%)     |       1838        |       1838        
+---------------------------------------------------------------------------------------------------
+      total      |    3     |    16m15s    |     1502      |       3801        |       4288        
+---------------------------------------------------------------------------------------------------
